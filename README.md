@@ -1,7 +1,6 @@
-# 📚 English Learning App (Quizlet-style) for Android
-
-An Android application designed to help users learn English vocabulary through flashcards, quizzes, and spaced repetition. Powered by Firebase for real-time data storage and user management. This project was implemented at Ton Duc Thang University with instructor Vu Dinh Hong. This project has a final score of 10/10.
+# 📚 English Learning App (Quizlet-style) for Android 
 ---
+An Android application designed to help users learn English vocabulary through flashcards, quizzes, and spaced repetition. Powered by Firebase for real-time data storage and user management. This project was implemented at Ton Duc Thang University with instructor Vu Dinh Hong. This project has a final score of 10/10.
 
 ## 🎯 Team members
 - Danh Nguyen Nhat An (Designer, Front-end)
