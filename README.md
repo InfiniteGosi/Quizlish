@@ -33,4 +33,4 @@ An Android application designed to help users learn English vocabulary through f
 - Google Services JSON added to `/app`
 - Minimum SDK: 21+
 
-**📱 [Click here for demonstration video (in Vietnamese)](https://www.youtube.com/watch?v=5K1359uF65k&feature=youtu.be)**
+**[Click here for demonstration video (in Vietnamese)](https://www.youtube.com/watch?v=5K1359uF65k&feature=youtu.be)**
